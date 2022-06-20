@@ -66,5 +66,5 @@ Here are some ideas to get you started:
 <h3 align="left">Find Me On:</h3>
 <a href="https://github.com/DilumBBandara"><img title="GitHub" src="https://img.shields.io/badge/GitHub-D.M.D.U.Bandara-red?style=for-the-badge&logo=github"></a>
 <a href="https://t.me/DUDU802167_bot"><img title="GitHub" src="https://img.shields.io/badge/TELEGRAM-My Telegram Bot-blue?style=for-the-badge&logo=telegram"></a>
-
-
+<br>
+<a href="https://github.com/DilumBBandara"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="" style="max-width: 100%;"></a>

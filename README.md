@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 -->
 ### Hi there <a href="https://github.com/DilumBBandara"><img src="abc.gif" width=20></a><a href="https://github.com/DilumBBandara"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DilumBBandara&label=Profile%20views&color=0e75b6&style=flat" alt="DilumBBandara" /> </p>
+<p align="left"> 
 <a href="https://github.com/DilumBBandara"><img src="https://img.shields.io/github/followers/DilumBBandara?style=social"></a>
-<a href="https://github.com/DilumBBandara"><img src="https://img.shields.io/github/stars/DilumBBandara.svg?style=social&label=Star&maxAge=2592000"> </a>
-<br>
+<br><a href="https://github.com/DilumBBandara"><img src="https://img.shields.io/github/stars/DilumBBandara.svg?style=social&label=Star&maxAge=2592000"> </a>
+<br></p>
 <a href="https://github.com/DilumBBandara"><img src="https://github.com/DilumBBandara/DilumBBandara/blob/main/DU%20(1).gif"></a>
 <br>
 <code>- 🤗 I'm <a href="https://github.com/DilumBBandara">D.M.D.U.</a><a href="https://github.com/DilumBBandara">Bandara</a>.</code>

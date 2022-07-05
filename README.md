@@ -66,6 +66,15 @@ Here are some ideas to get you started:
 <a href="https://github.com/DilumBBandara"><img src="https://github-profile-trophy.vercel.app/?username=DilumBBandara&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR"></a>
 </p>
 
+<h3 align="left">Some of my GitHub Repositories:</h3>
+<p align="center">
+<a href="https://github.com/DilumBBandara/Apt_Tools"><img title="Apt_Tools" src="https://github-readme-stats.vercel.app/api/pin/?username=DilumBBandara&repo=Apt_Tools&theme=dark" width=300></a>
+<a href="https://github.com/DilumBBandara/DesktopGUI"><img title="DesktopGUI" src="https://github-readme-stats.vercel.app/api/pin/?username=DilumBBandara&repo=DesktopGUI&theme=dark" width=300></a>
+<a href="https://github.com/DilumBBandara/D-IP"><img title="D-IP" src="https://github-readme-stats.vercel.app/api/pin/?username=DilumBBandara&repo=D-IP&theme=whait" width=300></a>
+<a href="https://github.com/DilumBBandara/D-THEM-V1"><img title="D-THEM-V1" src="https://github-readme-stats.vercel.app/api/pin/?username=DilumBBandara&repo=D-THEM-V1&theme=whait" width=300></a>
+</p>
+
+
 <h3 align="left">Databases and Cloud Hosting:</h3>
 
 <p>
